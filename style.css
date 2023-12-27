@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.top-banner-bg{
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.price{
+    color: rgb(228, 48, 16);
+}
+
+.para{
+    color: rgb(31, 20, 20);
+}
+
+.nav-link{
+    color: dimgray;
+}
+
+.btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 15px;
+    cursor: pointer;
+}
