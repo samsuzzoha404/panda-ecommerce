@@ -31,3 +31,31 @@
     padding: 9px 15px;
     cursor: pointer;
 }
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+    background-color: #ffcb43;
+    background-image: linear-gradient(319deg, #ffcb43 0%, #ff6425 37%, #ff0016 100%);
+
+}
+
+.cat2{
+    background-color: #118ab2;
+    background-image: linear-gradient(319deg, #118ab2 0%, #06d6a0 37%, #ffd166 100%);
+}
+
+.cat3{
+    background-color: #d3d3d3;
+    background-image: linear-gradient(315deg, #d3d3d3 0%, #2bc96d 74%);
+
+}
+
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 120px;
+}
